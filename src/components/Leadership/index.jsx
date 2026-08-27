@@ -257,7 +257,7 @@ const Leadership = () => {
             >
               <motion.figure
                 className={css.memberImg}
-                whileHover={{
+                whileHover={{a
                   scale: 1.05,
                 }}
                 transition={{
